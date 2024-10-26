@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alirezarashedi81
 - 👀 I’m interested in ai
 - 🌱 I’m currently learning ai and ml
-- 💞️ I’m looking to collaborate on ibm
+- 💞️ I’m looking to collaborate in ibm
 - 📫 How to reach me: nobody1381rashedi
 
 <!---
